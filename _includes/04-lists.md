@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+#### A few of my favorite authors ####
+* Jacqueline Carey
+* Anne Bishop
+* Anne McCaffrey
+* Tee Morris and Philippa Ballantine
+* Nathan Lowell
